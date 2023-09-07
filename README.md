@@ -14,7 +14,7 @@
  # Framework 🔭
 ![Screenshot (8)](https://github.com/Sarvesh223/Sarvesh223/assets/92908500/5109325b-e1b3-4090-96e0-6d4e3a354c94)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yushi1007&layout=compact)](https://github.com/yushi1007)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sarvesh223&layout=compact)](https://github.com/yushi1007)
 
 
 
