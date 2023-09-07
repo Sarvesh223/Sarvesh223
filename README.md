@@ -10,7 +10,13 @@
 ## Connect with me: 🤝
 
 # Languages and Tools 🙇‍♂️
-[![C_Logo](https://github.com/Sarvesh223/Sarvesh223/assets/92908500/5a1a4ad4-3bb5-427d-a765-6e3b8707be09) ![Java_programming_language_logo svg](https://github.com/Sarvesh223/Sarvesh223/assets/92908500/e64f8812-4613-44af-9f63-473d5b4a59fc) ![1402](https://github.com/Sarvesh223/Sarvesh223/assets/92908500/b4822d4c-5afc-44e8-9c99-1f4fafe9d9a5) ]
+|HTML                         | Python                           | Java                                    |
+| ----------------------------------- | ----------------------------------- | ------------------------------------------- |
+| ![HTML](![HTML5_logo_and_wordmark svg](https://github.com/Sarvesh223/Sarvesh223/assets/92908500/b6229783-cd89-4281-bcda-cb0f1d5bfdfd)) | ![python](![python-logo-C50EED1930-seeklogo com](https://github.com/Sarvesh223/Sarvesh223/assets/92908500/fbebf473-b3fd-4e94-a0b4-136bd1b2c8b9)) | ![Java](
+![152760](https://github.com/Sarvesh223/Sarvesh223/assets/92908500/a8279065-2987-4b0d-a22e-367f91f61eca)) |
+
+
+
 
 
 
