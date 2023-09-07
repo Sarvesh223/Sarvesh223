@@ -16,7 +16,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sarvesh223&layout=compact)](https://github.com/yushi1007)
 
-(https://git.io/awesome-stats-card)](https://github-stats-alpha.vercel.app/api?username={Sarvesh223})
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Sarvesh223?cardType=github&theme=github&showIcons=false&preferLogin=true&Border=000000&Title=000000)](https://git.io/awesome-stats-card)
 
 
 <!--
