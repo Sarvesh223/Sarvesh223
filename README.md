@@ -16,7 +16,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sarvesh223&layout=compact)](https://github.com/yushi1007)
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Sarvesh223?cardType=github&theme=tokyonight&preferLogin=false)](https://git.io/awesome-stats-card)
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Sarvesh223?cardType=github&theme=github&preferLogin=false)](https://git.io/awesome-stats-card)
 
