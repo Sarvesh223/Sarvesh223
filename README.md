@@ -1,10 +1,10 @@
 
 ### <img width="1834" alt="Make your README" src="https://github.com/Sarvesh223/Sarvesh223/assets/92908500/f40c5ef6-4b3c-4942-ad2b-904f9dad7818">
-## Sarvesh Gupta
+# Sarvesh Gupta
 # I'm a programmer, a frontend developer, UI -UX Designer and a Coder.
-> I'm looking to collaborate on projects.
-> I'm currently working on Chatbot App Intergration with MATLAB.
-> I'm specialized in Blockchain.
+- 📽️ I'm looking to collaborate on projects.
+- 💻 I'm currently working on Chatbot App Intergration with MATLAB.
+- ⛓️ I'm specialized in Blockchain.
 
 ## Connect with me: 🤝
 
