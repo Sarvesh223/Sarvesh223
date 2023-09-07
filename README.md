@@ -7,14 +7,15 @@
 - ⛓️ I'm specialized in Blockchain.
 - 😆 Pronouns: He/Him
 
-## Connect with me: 🤝
 
 # Languages and Tools 🙇‍♂️
 ![Screenshot (6)](https://github.com/Sarvesh223/Sarvesh223/assets/92908500/9d01ba52-9779-41a3-b7c9-095a7d5ffdd9)
 
-# Framework
-![Screenshot (7)](https://github.com/Sarvesh223/Sarvesh223/assets/92908500/aee5908d-c89a-421d-b6ab-72904518712e)
+ # Framework 🔭
+![Screenshot (8)](https://github.com/Sarvesh223/Sarvesh223/assets/92908500/5109325b-e1b3-4090-96e0-6d4e3a354c94)
 
+# Github Stats 📈
+[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=Sarvesh223)](https://github.com/Sarvesh223)
 
 
 
