@@ -1,5 +1,12 @@
-<img width="1834" alt="Make your README (1)" src="https://github.com/Sarvesh223/Sarvesh223/assets/92908500/a6768455-cfcf-44c9-a31d-521a1ba113ac">
-### Hi there 👋
+
+### <img width="1834" alt="Make your README" src="https://github.com/Sarvesh223/Sarvesh223/assets/92908500/f40c5ef6-4b3c-4942-ad2b-904f9dad7818">
+## Sarvesh Gupta
+# I'm a programmer, a frontend developer, UI -UX Designer and a Coder.
+> I'm looking to collaborate on projects.
+> I'm currently working on Chatbot App Intergration with MATLAB.
+> I'm specialized in Blockchain.
+
+## Connect with me: 🤝
 
 <!--
 **Sarvesh223/Sarvesh223** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
